@@ -6,6 +6,6 @@ while(n>0):
  reverse=(reverse*10)+rem
  n=n//10
 if(reverse==temp):
- print(Yes)
+ print("yes")
 else:
- print(no)
+ print("no")
